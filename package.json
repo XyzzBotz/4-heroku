@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "^5.0.0",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
     "axios": "^0.21.1",
@@ -22,7 +22,7 @@
     "file-type": "^16.3.0",
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
-    "got": "^11.8.2",
+    "got": "^12.5.3",
     "image-to-base64": "^2.2.0",
     "insta-fetcher": "^1.2.3",
     "jsdom": "^16.5.2",
